@@ -1,5 +1,7 @@
 # etch-a-sketch
 
+Live Page: https://imbrandonj.github.io/etch
+
 Made to fulfill The Odin Project's: Etch-a-Sketch
 
 See project challenge here:
